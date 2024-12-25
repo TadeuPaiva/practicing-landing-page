@@ -58,4 +58,6 @@ footer {
 footer img{
     width: 20px;
     height: 15px;
+    vertical-align: middle;
+    /* centraliza verticalmente com o texto */
 }
