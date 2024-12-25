@@ -54,3 +54,8 @@ footer {
         padding: 28px 0 48px;
         color: white;
 }
+
+footer img{
+    width: 20px;
+    height: 15px;
+}
